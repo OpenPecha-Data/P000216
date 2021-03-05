@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000216
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ངེས་ཤེས་རིན་པོ་ཆེའི་སྒྲོན་མེའི་ཚིག་གི་དོན་གསལ་བའི་འགྲེལ་ཆུང་བློ་གྲོས་སྣང་བའི་སྒོ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁན་པོ་ཀུན་དཔལ།
-  sku: LEK-PHI-059-1-1
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: LEK-PHI-059-1-1
 web_metadata:
   title:
     en: Unlocking the Light of Intellegence:A Short Commentary on Mipham's Beacon
